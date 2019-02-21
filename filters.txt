@@ -1,0 +1,50 @@
+python Exporter.py --querysearch "saint patrick’s day" --since 2018-03-01 --until 2018-03-31 --lang en --output resultados/parte1.csv
+python Exporter.py --querysearch "saint patrick’s day" --since 2018-03-01 --until 2018-03-31 --lang en --output resultados/parte2.csv
+python Exporter.py --querysearch "#saintpatricksday" --since 2018-03-01 --until 2018-03-31 --lang en --output resultados/parte3.csv
+python Exporter.py --querysearch "saint patrick's" --since 2018-03-01 --until 2018-03-31 --lang en --output resultados/parte4.csv
+python Exporter.py --querysearch "#SaintPatricksDay" --since 2018-03-01 --until 2018-03-31 --lang en --output resultados/parte5.csv
+python Exporter.py --querysearch "stpatricksday" --since 2018-03-01 --until 2018-03-31 --lang en --output resultados/parte6.csv
+python Exporter.py --querysearch "patrick’s day" --since 2018-03-01 --until 2018-03-31 --lang en --output resultados/parte7.csv
+python Exporter.py --querysearch "#StPatricksDay2018" --since 2018-03-01 --until 2018-03-31 --lang en --output resultados/parte8.csv
+python Exporter.py --querysearch "#StPatricksDay" --since 2018-03-01 --until 2018-03-31 --lang en --output resultados/parte9.csv
+python Exporter.py --querysearch "#SaintPatrick" --since 2018-03-01 --until 2018-03-31 --lang en --output resultados/parte10.csv
+python Exporter.py --querysearch "#StPatricksDayParade" --since 2018-03-01 --until 2018-03-31 --lang en --output resultados/parte11.csv
+python Exporter.py --querysearch "#patricks" --since 2018-03-01 --until 2018-03-31 --lang en --output resultados/parte12.csv
+python Exporter.py --querysearch "#SaintPatricksDay2018" --since 2018-03-01 --until 2018-03-31 --lang en --output resultados/parte13.csv
+python Exporter.py --querysearch "#SaintPatricksWeekend" --since 2018-03-01 --until 2018-03-31 --lang en --output resultados/parte14.csv
+python Exporter.py --querysearch "@stpatricksfest" --since 2018-03-01 --until 2018-03-31 --lang en --output resultados/parte15.csv
+python Exporter.py --querysearch "saint patrick’s day" --since 2017-03-01 --until 2017-03-31 --lang en --output resultados/parte16.csv
+python Exporter.py --querysearch "saint patrick’s day" --since 2017-03-01 --until 2017-03-31 --lang en --output resultados/parte17.csv
+python Exporter.py --querysearch "#saintpatricksday" --since 2017-03-01 --until 2017-03-31 --lang en --output resultados/parte18.csv
+python Exporter.py --querysearch "saint patrick's" --since 2017-03-01 --until 2017-03-31 --lang en --output resultados/parte19.csv
+python Exporter.py --querysearch "#SaintPatricksDay" --since 2017-03-01 --until 2017-03-31 --lang en --output resultados/parte20.csv
+python Exporter.py --querysearch "stpatricksday" --since 2017-03-01 --until 2017-03-31 --lang en --output resultados/parte21.csv
+python Exporter.py --querysearch "patrick’s day" --since 2017-03-01 --until 2017-03-31 --lang en --output resultados/parte22.csv
+python Exporter.py --querysearch "#StPatricksDay2017" --since 2017-03-01 --until 2017-03-31 --lang en --output resultados/parte23.csv
+python Exporter.py --querysearch "#StPatricksDay" --since 2017-03-01 --until 2017-03-31 --lang en --output resultados/parte24.csv
+python Exporter.py --querysearch "#SaintPatrick" --since 2017-03-01 --until 2017-03-31 --lang en --output resultados/parte25.csv
+python Exporter.py --querysearch "#StPatricksDayParade" --since 2017-03-01 --until 2017-03-31 --lang en --output resultados/parte26.csv
+python Exporter.py --querysearch "#patricks" --since 2017-03-01 --until 2017-03-31 --lang en --output resultados/parte27.csv
+python Exporter.py --querysearch "#SaintPatricksDay2017" --since 2017-03-01 --until 2017-03-31 --lang en --output resultados/parte28.csv
+python Exporter.py --querysearch "#SaintPatricksWeekend" --since 2017-03-01 --until 2017-03-31 --lang en --output resultados/parte29.csv
+python Exporter.py --querysearch "@stpatricksfest" --since 2017-03-01 --until 2017-03-31 --lang en --output resultados/parte30.csv
+python Exporter.py --querysearch "Mardi Gras" --since 2018-02-12 --until 2018-02-14 --near "New Orleans, LA" --lang en --within "15mi" --output resultados/parte31.csv
+python Exporter.py --querysearch "#MardiGras" --since 2018-02-12 --until 2018-02-14 --near "New Orleans, LA" --lang en --within "15mi" --output resultados/parte32.csv
+python Exporter.py --querysearch "MardiGras" --since 2018-02-12 --until 2018-02-14 --near "New Orleans, LA" --lang en --within "15mi" --output resultados/parte33.csv
+python Exporter.py --since 2017-12-31 --until 2018-01-01 --lang en --output resultados/parte34.csv
+python Exporter.py --since 2016-12-31 --until 2017-01-01 --lang en --output resultados/parte35.csv
+python Exporter.py --querysearch "Oktoberfest" --since 2018-10-01 --until 2018-10-31 --lang en --output resultados/parte36.csv
+python Exporter.py --querysearch "#Oktoberfest" --since 2018-10-01 --until 2018-10-31 --lang en --output resultados/parte37.csv
+python Exporter.py --querysearch "#drunk" --since 2018-01-01 --lang en --output resultados/parte38.csv
+python Exporter.py --querysearch "#drank" --since 2018-01-01 --lang en --output resultados/parte39.csv
+python Exporter.py --querysearch "#imdrunk" --since 2018-01-01 --lang en --output resultados/parte40.csv
+python Exporter.py --querysearch "#notdrunk" --since 2018-01-01 --lang en --output resultados/parte41.csv
+python Exporter.py --querysearch "#imnotdrunk" --since 2018-01-01 --lang en --output resultados/parte42.csv
+python Exporter.py --querysearch "#sober" --since 2018-01-01 --lang en --output resultados/parte43.csv
+python Exporter.py --querysearch "#drunk" --since 2017-01-01 --until 2017-12-31 --lang en --output resultados/parte44.csv
+python Exporter.py --querysearch "#drank" --since 2017-01-01 --until 2017-12-31 --lang en --output resultados/parte45.csv
+python Exporter.py --querysearch "#imdrunk" --since 2017-01-01 --until 2017-12-31 --lang en --output resultados/parte46.csv
+python Exporter.py --querysearch "#notdrunk" --since 2017-01-01 --until 2017-12-31 --lang en --output resultados/parte47.csv
+python Exporter.py --querysearch "#imnotdrunk" --since 2017-01-01 --until 2017-12-31 --lang en --output resultados/parte48.csv
+python Exporter.py --querysearch "#sober" --since 2017-01-01 --until 2017-12-31 --lang en --output resultados/parte49.csv
+python Exporter.py --querysearch "#drunk" --since 2017-12-01 --until 2017-12-31 --lang en --output resultados/parte50.csv
